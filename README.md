@@ -1,3 +1,3 @@
 # 20103.github.io
 
-yeas
+this is where i make really useless websites for school purposes
