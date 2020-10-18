@@ -7,4 +7,4 @@
 <meta name="msapplication-config" content="https://20103.github.io/Favicon/browserconfig.xml">
 <meta name="theme-color" content="#000000">
 
-#add this to website page of 20103.github.io for default favicon
+add this to website page of 20103.github.io for default favicon
